@@ -1,4 +1,4 @@
-🛳 Titanic Survival Prediction – Exploratory Data Analysis (EDA)
+🛳 Titanic-EDA-Project
 📌 Project Overview
 
 This project is part of my Elevvo Internship (Task 2: Exploratory Data Analysis).
